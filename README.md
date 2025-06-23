@@ -9,7 +9,7 @@
 - 🌱 I’m learning **React, Node.js, and GitHub**
 - 👯 I’m open to collaborating on team projects
 - 💬 Ask me about **Frontend Development**, **Git**, and **HTML/CSS**
-- 📫 How to reach me: akindu@example.com
+- 📫 How to reach me:samaras-im22022stu@kln.ac.lk
 
 ---
 
