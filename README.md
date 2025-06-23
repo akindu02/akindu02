@@ -30,9 +30,7 @@
 
 
 
-## ⚡ Fun Fact
 
-> I love building beautiful, functional websites and I believe learning never stops 🚀
 
 <!--
 **akindu02/akindu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
