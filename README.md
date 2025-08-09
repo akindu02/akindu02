@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akindu Samarasinghe</h1>
-<h3 align="center">🎓 IT Undergraduate | 🌐 Web Developer | 💡 Tech Enthusiast</h3>
+<h3 align="center">🎓 IT Undergraduate | 🌐 Full Stack Developer | 💡 Tech Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m learning **React, Node.js, and GitHub**
 - 👯 I’m open to collaborating on team projects
-- 💬 Ask me about **Frontend Development**, **Git**, and **HTML/CSS**
+- 💬 Ask me about **Frontend Development**, **Backend Development**, and **HTML/CSS**
 - 📫 How to reach me:samaras-im22022stu@kln.ac.lk
 
 ---
