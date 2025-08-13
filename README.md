@@ -15,17 +15,16 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-rounded&logo=react&logoColor=61DAFB" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" /><br>React</a>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-rounded&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" /><br>Git</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</a> &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</a>
 </p>
 
 ---
