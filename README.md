@@ -14,15 +14,19 @@
 ---
 ## 🧰 Tech Stack
 
-![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-FF512F?style=for-the-badge&logo=html5&logoColor=white&colorB=F09819)
-![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-00c6ff?style=for-the-badge&logo=css3&logoColor=white&colorB=0072ff)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-FFE000?style=for-the-badge&logo=javascript&logoColor=black&colorB=FF7E00)
-![React](https://custom-icon-badges.demolab.com/badge/React-00d2ff?style=for-the-badge&logo=react&logoColor=61DAFB&colorB=3a7bd5)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-00b09b?style=for-the-badge&logo=node.js&logoColor=white&colorB=96c93d)
-![Git](https://custom-icon-badges.demolab.com/badge/Git-ff512f?style=for-the-badge&logo=git&logoColor=white&colorB=f09819)
-![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=white&colorB=243B55)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VSCode-00c6ff?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorB=0072ff)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-rounded&logo=react&logoColor=61DAFB" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-rounded&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
