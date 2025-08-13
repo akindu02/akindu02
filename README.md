@@ -15,17 +15,9 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" /><br>React</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" /><br>Git</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</a> &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</a>
-</p>
+
 
 ---
 
