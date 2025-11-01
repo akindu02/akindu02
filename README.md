@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m learning **React, Node.js, and GitHub**
+- 🌱 I’m learning **React, Node.js, and Python**
 - 👯 I’m open to collaborating on team projects
 - 💬 Ask me about **Frontend Development**, **Backend Development**
 - 📫 How to reach me:samaras-im22022stu@kln.ac.lk
